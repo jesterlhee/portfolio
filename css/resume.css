@@ -213,6 +213,7 @@ a {
 }
 
 .view-all-btn {
+  border: none;
   text-transform: none;
   margin-top: 1.5rem;
   font-family:Arial;
